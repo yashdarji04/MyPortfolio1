@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "homepage": "https://yashdarji04.github.io/MyPortfolio1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "@emailjs/browser": "^4.4.1",
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
