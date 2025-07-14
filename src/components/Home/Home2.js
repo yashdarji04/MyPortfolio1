@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Javascript , I quickly found my true passion in building beautiful, functional websites. </b>
               </i>
               <br />
               <br />
@@ -47,6 +47,8 @@ function Home2() {
                 <b className="purple"> React.js and Next.js</b>
               </i>
             </p>
+
+            
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
